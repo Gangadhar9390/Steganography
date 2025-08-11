@@ -49,9 +49,7 @@ It can **encode** a secret file into a `.bmp` image and later **decode** it to r
 ## 🚀 Usage  
 <img width="956" height="101" alt="Screenshot 2025-08-11 160042" src="https://github.com/user-attachments/assets/97395509-dc4d-43d4-9d07-ae6a49af3b59" />
 
-### **Compile**  
-```bash
-gcc main.c encode.c decode.c enc_file.c -o stego
+
 ---
 
 ### **Sample ouput images**
